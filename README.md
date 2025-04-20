@@ -1,0 +1,1 @@
+The repository contains an implementation of the xzzx code under rectangular boundary condition. This is an extension to the qecsim package. So coest.py for an example on how to calculate coset probability.
